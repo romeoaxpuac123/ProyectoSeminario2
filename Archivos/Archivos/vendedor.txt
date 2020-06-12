@@ -1,0 +1,30 @@
+CodigoVendedor|NombreVendedor|Sucursal
+V00007|Nelson Mario Caffera Morandi|Sucursal 7
+V00028|Sergio Bonilla Marabotto|Sucursal 28
+V00013|Gabriel Aramburu|Sucursal 13
+V00037|Juan José Almiron Belen|Sucursal 37
+V00038|Alejandro Andres Bianchi Salomon|Sucursal 38
+V00030|Enrique Bosca Gomez|Sucursal 30
+V00027|Maria Gregoria Abreu Bonilla|Sucursal 27
+V00064|Pablo Cabral Olivera|Sucursal 64
+V00040|Gonzalo Alvarez De La Fuente|Sucursal 40
+V00063|Alicia Teresita Barrios Lasso|Sucursal 63
+V00049|Gustavo Luis Aguirre|Sucursal 49
+V00006|Carlos Daniel Cabrera Sosa|Sucursal 6
+V00008|Gerarddo Breccia Guzzo|Sucursal 8
+V00059|Ariel Astori|Sucursal 59
+V00024|Marisa Daniela Bortoli Porro|Sucursal 24
+V00026|Maria Elida Cabral Borba|Sucursal 26
+V00042|Mary Cristina Baccelli Rossari|Sucursal 42
+V00051|Irene Beatriz Bobba Ojeda|Sucursal 51
+V00020|Andrea Beltrame Echeverria|Sucursal 20
+V00028|Sergio Bonilla Marabotto|Sucursal 28
+V00050|Jose Maria Buquet Gonzalez|Sucursal 50
+V00064|Pablo Cabral Olivera|Sucursal 64
+V00029|Sergio Dardo Artola Naranja|Sucursal 29
+V00011|Artigas Alexis Caggiani|Sucursal 11
+V00062|Maria Andrea Alvarez Martinez|Sucursal 62
+V00026|Maria Elida Cabral Borba|Sucursal 26
+V00008|Gerarddo Breccia Guzzo|Sucursal 8
+V00064|Pablo Cabral Olivera|Sucursal 64
+V00038|Alejandro Andres Bianchi Salomon|Sucursal 38

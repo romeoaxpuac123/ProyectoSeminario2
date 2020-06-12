@@ -1,0 +1,30 @@
+CodigoArticulo|Color|Descripcion|Departamento
+A0000001|Café Camel|Sala 3-2-1 reclinable Castel|Muebles
+A0000002|Gris Oscuro|Sala 3-2 Reclinable Allison|Muebles
+A0000003|Café |Sala esquinera reclinable Karl|Muebles
+A0000004|Gris|Sala Seccional reclinable Hall|Muebles
+A0000005|Negro|Sillón eléctrico reclinable Terry|Muebles
+A0000006|NA|Sillón individual quartz|Muebles
+A0000007|Gris Oscuro|Sillón gris oscuro Venture|Muebles
+A0000008|Gris|Sofá cama gris Mackay|Muebles
+A0000009|Gris|Sala 3-2 Forsan Nuvella|Muebles
+A0000010|Gris Oscuro|Love seat Venture|Muebles
+A0000011|Blanco|Sala 3-2 Essau|Muebles
+A0000012|Azul|Sala 3-2 Corinne Capri|Muebles
+A0000013|Gris|Sala 3-2 Andrés|Muebles
+A0000014|Negro|Sala 3-2 Elixir|Muebles
+A0000015|Azul|Sala 3-2 Oliana|Muebles
+A0000016|Gris|Love Seat reclinable Corneluis|Muebles
+A0000017|Gris Claro|Sillón individual Drey extensible|Muebles
+A0000018|Chocolate|Sofá cama Abril|Muebles
+A0000019|Taupé|Sofá cama Evonne|Muebles
+A0000020|Gris|Sillón individual Recinable grey|Muebles
+A0000021|Negro|Sala 3-2 reclinable Hilton dkbrown|Muebles
+A0000022|Cacao|Sala 3-2 Clever|Muebles
+A0000023|Café|Sala 3-2 Café|Muebles
+A0000024|Café|Love seat Café|Muebles
+A0000025|Café|Sala seccional con sofá cama y almacenaje|Muebles
+A0000016|Gris|Love Seat reclinable Corneluis|Muebles
+A0000013|Gris|Sala 3-2 Andrés|Muebles
+A0000008|Gris|Sofá cama gris Mackay|Muebles
+A0000005|Negro|Sillón eléctrico reclinable Terry|Muebles

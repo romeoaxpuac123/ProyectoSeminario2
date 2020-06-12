@@ -1,0 +1,30 @@
+CodigoSucursal|NombreSucursal|Direccion|Region|Departamento|Zona
+S007|Sucursal 7|Centro Comercial Pradera Zona 10 LOCAL 333, Nivel 3|Metropolitana|Guatemala|10
+S028|Sucursal 28|Centro Comercial Metronorte Plaza Anexo Nororiente LOCALES 7-8|Metropolitana|Guatemala|17
+S013|Sucursal 13|Km 13.5 Calz. Roosevelt Centro Comercial Plaza Madero Roosevelt Local 30|Metropolitana|Guatemala|12
+S037|Sucursal 37|41 Av. 3-10 zona 4 de Mixco, Local 121 (Pasillo No.3)|Metropolitana|Guatemala|4
+S038|Sucursal 38|Calz.  Roosevelt  13-46, zona 7. local 124, C.C. Galerías Primma.|Metropolitana|Guatemala|7
+S030|Sucursal 30|21 Avenida 4-32 Zona 11 Centro Comercial Miraflores|Metropolitana|Guatemala|11
+S027|Sucursal 27|8a. Calle 28-00 Zona 11 C.C. Las Plazas Majadas LOCAL 15|Metropolitana|Guatemala|11
+S064|Sucursal 64|6ª calle 12-124 Zona 1, lotificación la Felicidad, Centro Comercial La Trinidad Coatepeque locales 9,10 y 11, Coatepeque, Quetzaltenango|Suroccidente|Quetzaltenango|9
+S040|Sucursal 40|10ª Avenida 33-21 zona 11 Centro Empresarial las Charcas|Metropolitana|Guatemala|11
+S063|Sucursal 63|Kilómetro 158 carretera a Mazatenango Suchitepequez, Centro Comercial Plaza Las Americas locales 306 y 307|Suroccidente|Suchitepéquez|6
+S049|Sucursal 49|Kilómetro 15.5 Carretera a El Salvador Centro Comercial Pradera Concepción Nivel 1 Locales 117 al 119|Metropolitana|Guatemala|10
+S006|Sucursal 6|C.C. Santa Clara LOCAL 2-09, Nivel 2 Villa Nueva|Metropolitana|Guatemala|2
+S008|Sucursal 8|Km. 14.1 Carretera a El Salvador Centro Comercial Paseo San Sebastian LOCAL 40A Guatemala|Metropolitana|Guatemala|16
+S059|Sucursal 59|Avenida Las Americas 3-30 Zona 9, Quetzaltenango|Suroccidente|Quetzaltenango|9
+S024|Sucursal 24|Km. 29.5 Carretera Interamericana Centro Comercial Multicentro LOCAL 114 Sacatepéquez|Central|Sacatepéquez|5
+S026|Sucursal 26|6a Avenida 8-28 Zona 9|Metropolitana|Guatemala|9
+S042|Sucursal 42|1er Nivel, Local E-68, C.C. Centra Norte|Metropolitana|Guatemala|18
+S051|Sucursal 51|18 Calle 27-74, Zona 10, Centro Comercial Gran Via Pradera|Metropolitana|Guatemala|10
+S020|Sucursal 20|C.C. Interplaza Xela Local Free Stand|Suroccidente|Quetzaltenango|3
+S028|Sucursal 28|Centro Comercial Metronorte Plaza Anexo Nororiente LOCALES 7-8|Metropolitana|Guatemala|17
+S050|Sucursal 50|KM 4.5 Carretera al Atlantico, Centro Comericla Los Alamos, interior 19 zona 18|Metropolitana|Guatemala|18
+S064|Sucursal 64|6ª calle 12-124 Zona 1, lotificación la Felicidad, Centro Comercial La Trinidad Coatepeque locales 9,10 y 11, Coatepeque, Quetzaltenango|Suroccidente|Quetzaltenango|9
+S029|Sucursal 29|18 calle 2-21 Zona 10 Gran centro comercial Los Próceres|Metropolitana|Guatemala|10
+S011|Sucursal 11|Edificio Centro Vivo 7a Ave. 10 Calle Zona 1 Local 2|Metropolitana|Guatemala|1
+S062|Sucursal 62|Km. 88.5 Antigua Carretera a Mazatenango, Santa Lucia Cootzumalguapa, Escuintla Centro Comercial Pradera Express , Local No. 11|Central|Escuintla|1
+S026|Sucursal 26|6a Avenida 8-28 Zona 9|Metropolitana|Guatemala|9
+S008|Sucursal 8|Km. 14.1 Carretera a El Salvador Centro Comercial Paseo San Sebastian LOCAL 40A Guatemala|Metropolitana|Guatemala|16
+S064|Sucursal 64|6ª calle 12-124 Zona 1, lotificación la Felicidad, Centro Comercial La Trinidad Coatepeque locales 9,10 y 11, Coatepeque, Quetzaltenango|Suroccidente|Quetzaltenango|9
+S038|Sucursal 38|Calz.  Roosevelt  13-46, zona 7. local 124, C.C. Galerías Primma.|Metropolitana|Guatemala|7

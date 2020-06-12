@@ -1,0 +1,30 @@
+CodigoCliente|NombreCliente|TipoCliente|DireccionCliente|CorreoCliente
+C00001|Jose Arturo Bayardi Lozano|Minorista|Blv. Los Próceres, 13-50 zona 10|josebayardi@gmail.com
+C00002|Nora Alicia Annunziatto Martino|Mayorista|17 Av. y 19 calle, zona 10|noraannunziatto@gmail.com
+C00003|Roberto Baz Cogo|Minorista|4ª. Av. 20-44 zona 14|robertobaz@gmail.com
+C00004|Maria Del Carmen Berois Quinteros|Mayorista|3ª. Ave. y 12 calle, zona 14|mariaberois@gmail.com
+C00005|Miguel Brechner Frey|Minorista|25 Av. 1-65 zona 15, Vista Hermosa 2|miguelbrechner@gmail.com
+C00006|Pablo Emiliano Alvarez Lopez|Mayorista|12 calle 1-91 zona 14|pabloalvarez@gmail.com
+C00007|Pedro Emilio Buonomo De Leon|Mayorista|3ª. Av. 11-16 zona 10|pedrode@gmail.com
+C00008|Victor Barragan Caraballo|Mayorista|3ª. calle 21-21 zona 15, Vista Hermosa 1|victorbarragan@gmail.com
+C00009|Ernesto Gabriel Beltrame Lemole|Minorista|Ruta 3, 2-16, zona 4|ernestobeltrame@gmail.com
+C00010|Jose Antonio Alem Deaces|Mayorista|5ª. calle 16-25 zona 16, Residenciales La Montaña|josealem@gmail.com
+C00011|Fernando Tomas Alvarez Alonzo|Mayorista|Cerca del cruce de 4 caminos, zona 17|fernandoalvarez@gmail.com
+C00012|Edith Elena Baygorria Mourin|Minorista|8ª. Av. 15-46 zona 10|edithbaygorria@gmail.com
+C00013|Mirta Graciela Abreu Nuñez|Minorista|14 calle “B” 12-47 zona 10, Oakland|mirtaabreu@gmail.com
+C00014|Haroldo Antonio Canoniero Marr|Minorista|Km. 8.5 carretera a El Salvador|haroldocanoniero@gmail.com
+C00015|Mario Nelson Barbato Almandos|Minorista|18 Av. 8-45 zona 15, Vista Hermosa I|mariobarbato@gmail.com
+C00016|Veronica Maria Alonso Montaño|Mayorista|12 calle 6-35 zona 10|veronicaalonso@gmail.com
+C00017|Inocencio Victor Bertoni Mendaro|Minorista|15 Av. “A” 19-71 zona 13|inocenciobertoni@gmail.com
+C00018|Juan Atilio Tapia|Minorista|4ª. Av.  y 17 calle,  zona 14|juanatilio@gmail.com
+C00019|Maria De Los Angeles Camiño Moreno|Minorista|9ª. Av. 16-10 zona 10|mariacamiño@gmail.com
+C00020|Ana Carolina Alvez Hourcade|Mayorista|Av. Reforma 7-62 zona 9|anaalvez@gmail.com
+C00021|Gerardo E. Cabrera Rocha|Mayorista|20 Av. “A” 3-41 zona 15, Vista Hermosa I|gerardocabrera@gmail.com
+C00022|Niria Anastasia Suarez|Mayorista|9ª. calle 3-01 zona 14|niriaanastasia@gmail.com
+C00023|Eduardo Ignacio Bandeira Castells|Mayorista|13 calle 3-40 zona 10|eduardobandeira@gmail.com
+C00024|Silvia Raquel Cabrera Luzardo|Minorista|Diagonal 6, 16-01 zona 10|silviacabrera@gmail.com
+C00025|Eva Myrian Alvez Vila|Mayorista|12 calle y 10ª. Av. zona 14|evaalvez@gmail.com
+C00001|Jose Arturo Bayardi Lozano|Minorista|Blv. Los Próceres, 13-50 zona 10|josebayardi@gmail.com
+C00001|Jose Arturo Bayardi Lozano|Minorista|Blv. Los Próceres, 13-50 zona 10|josebayardi@gmail.com
+C00001|Jose Arturo Bayardi Lozano|Minorista|Blv. Los Próceres, 13-50 zona 10|josebayardi@gmail.com
+C00001|Jose Arturo Bayardi Lozano|Minorista|Blv. Los Próceres, 13-50 zona 10|josebayardi@gmail.com
